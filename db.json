@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "fullName": "shahsi",
+      "email": "shashi@gmail.com",
+      "password": "abcd",
+      "id": 1
+    },
+    {
+      "fullName": "sheshu",
+      "email": "sheshu@gmail.com",
+      "password": "0000",
+      "id": 2
+    },
+    {
+      "fullName": "Rakshitha",
+      "email": "rakshitha@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "fullName": "Rakshitha",
+      "email": "rakshitha@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "fullName": "Rakshitha",
+      "email": "rakshitha@gmail.com",
+      "password": "1234",
+      "id": 5
+    }
+  ]
+}
